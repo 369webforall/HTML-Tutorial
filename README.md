@@ -24,7 +24,7 @@ HTML Tutorial
 
 ### Editors
 
-So the first thing you'll need is an editor to edit your jazz.  There's tons of options out there.
+So the first thing you'll need is an editor to edit your code.  There's tons of options out there, i will be using Visual Studio Code.
 
  
  * [Visual Studio Code](https://code.visualstudio.com/) - This is what I typically use. It's open source and has TONS of extensions available.
