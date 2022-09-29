@@ -35,19 +35,93 @@ There's a bunch of others [listed here](http://en.wikipedia.org/wiki/List_of_HTM
 
 Here is a barebones HTML page, about as simple as you can get.  You can open it up in the **1 - Structure** folder in the file part1.html.  If you were to open the file in your favorite browser (which you can do, go ahead), you'll see a plain webpage with the title "My Website" and the words, "Hello, World!" written on the page.
 
-```html
-<!doctype html>
+HTML Basics
+====================
+```HTML
+<!--HTML: Basics-->
+
+<!--HTML: HyperText Markup Language -->
+<!--HTML is the standard markup language used to create web pages-->
+
+<!-- To add content, you should use HTML tags -->
+<!-- These pre-defined tags, have opening and closing versions -->
+
+
+<!-- <!DOCTYPE> tag -->
+<!-- Defines the HTML Version the browser should use to display the HTML Tags-->
+<!-- By writing <!DOCTYPE html> and not specifying the version, the browser will use the latest version-->
+<!DOCTYPE html>
+
+
+<!-- <html> tag -->
+<!-- All of the HTML tags are placed inside the <html> tag -->
+<!-- You should use it to organize all of the other tags for the Web Page -->
 <html>
-	<head>
-		<title>
-			My Website
-		</title>
-	</head>
-	<body>
-		Hello, World!	
-	</body>
-</html>
+
+<!-- <head> tag -->
+<!-- All the not-visible content of the web page should be contained on the <head> tag -->
+<!-- You can use this tag to load scripts like CSS and Javascript -->
+
+<!-- Nesting tags: HTML tags can contain other tags -->
+<head lang="en"><!-- the <head> tag is called the parent tag (for <meta> and <title>) -->
+    <meta charset="UTF-8">
+    <!-- the <meta> tag is called a children tag (of <head>)-->
+    <title>HTML Basics</title><!-- the <title> tag is called a children tag (of <head>) -->
+</head>
+
+<!-- <link> tag -->
+<!-- Allows you to reference other files that work together with this file-->
+
+<!-- The type attribute set to text/css lets the browser know you are loading a CSS file -->
+<!-- The 'rel' attribute is an abbreviation for 'relationship' -->
+<!-- The CSS selectors and rules are contained in the CSS file -->
+<link rel="stylesheet" type="text/css" href="../CSS/Basics.css"><!-- The <link> is an empty tag, it doesn't have a closing tag -->
+
+
+<!-- <body> tag -->
+<!-- All the visible content of the web page should be contained in the <body> tag -->
+<body>
+
+<!-- <h*> headers -->
+
+<!-- You can use heading tags to define your content hierarchy -->
+<!-- Higher heading numbers mean the content that appears between the tags is less important -->
+
+<!-- <h1> is an opening tag -->
+<h1>Header H1</h1>
+<!-- </h1> is an closing tag and has a slash before the tag name-->
+<h2>Header H2</h2>
+
+<h3>Header H3</h3>
+<h4>Header H4</h4>
+
+<!-- <p> paragraphs -->
+
+<!-- You can use paragraph tags for non-heading text -->
+<p>This is a paragraph</p>
+<p>This is another paragraph</p>
+
+<!-- <ul> Unordered List -->
+<!-- You can use unordered list tags to display a list fo items -->
+<ul>
+    <!-- <li> list item -->
+    <!-- Every list item needs to be put in a <li> tag -->
+    <li>List Item 1</li>
+    <li>List Item 2</li>
+    <li>List Item 3</li>
+</ul>
+
+<!-- <ol> Ordered List -->
+<!-- You can use ordered list tags to display a list of items in order -->
+<ol>
+    <!-- <li> list item -->
+    <!-- Every list item needs to be put in a <li> tag -->
+    <li>List Item 1</li>
+    <li>List Item 2</li>
+    <li>List Item 3</li>
+</ol>
 ```
+
 
 So, what are we looking at here?
 HTML, short for *HyperText Markup Language*, consists of these things called tags, which are words written between `<` and `>` characters, like `<sometag>`.  All tags (with just a few exceptions that we'll talk about later) have a matching closing tag, which has the same name as the opening tag, except that it contains `/` after the first `<`, like `</sometag>`. 
@@ -253,9 +327,4 @@ One other fun thing you can try playing with are the `colspan` and `rowspan` att
 
 You can also nest tables, but I won't get into that right now.  If you want to play around with the code, try adding some `<tr>` and `<td>` tags inside your current `<td>` tags.  MaGiCal ThInGs.
 
-### Making Things Gorgeous The Wrong Way
-
-So, your website right now looks pretty bland, and that's normal.  But, we want a website that is hot, sexy, ravishing, and powerful.  Yes, that's right, we want a website just like you.
-
-So first, I will show you the wrong way to style your pages.  You might ask why, but trust me, if you learn in this order, you'll understand HTML attributes a lot better, and then when you move on to CSS your mind will explode with joy.  Explode.
 
