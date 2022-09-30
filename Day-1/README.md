@@ -46,3 +46,28 @@
 
 ```
 ![HTML Element](./images/1.png)
+
+## Empty Element
+Insert or Embed something in the document
+`<input>, <img>, <br>, <hr>, <embed>, <meta>, <link>`
+
+## Nesting
+HTML elements can be nested
+
+```
+    <div class="list">
+    <h2>My List: </h2>
+    <ul>
+        <li>Apple</li>
+        <li>Mango</li>
+        <li>Banana</li>
+    </ul>
+    </div>
+
+```
+
+## Attributes
+
+Attributes contain extra information about the element that won't appear in the content
+
+` <img src="https://images.unsplash.com/photo-1502082553048-f009c37129b9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" width="100"/> `
