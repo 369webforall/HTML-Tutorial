@@ -99,3 +99,20 @@ There are hundreds of HTML elements, most of the time we only use these elemets.
 
 ![Most common inline elements](./images/3-block.png)
 
+## Description about tags in head section
+
+![Head Section](./images/4.head.png)
+
+## Practice how inline and block element behave.
+
+# Project -1 
+use html tags u have learn to create below page. css not required.
+
+![cake recipe](https://www.allrecipes.com/recipe/241038/microwave-chocolate-mug-cake/)
+
+# Project - 2
+
+
+# Project - 3
+
+
