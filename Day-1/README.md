@@ -108,7 +108,7 @@ There are hundreds of HTML elements, most of the time we only use these elemets.
 # Project -1 
 use html tags u have learn to create below page. css not required.
 
-![cake recipe](https://www.allrecipes.com/recipe/241038/microwave-chocolate-mug-cake/)
+[cake recipe](https://www.allrecipes.com/recipe/241038/microwave-chocolate-mug-cake/)
 
 # Project - 2
 
