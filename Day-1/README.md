@@ -26,11 +26,11 @@
 <li>Three</li>
 </ul>
 
-<ul>
-<ol>One</ol>
-<ol>Two</ol>
-<ol>Three</ol>
-</ul>
+<ol>
+<li>One</li>
+<li>Two</li>
+<li>Three</li>
+</ol>
 
 <img src="image link" alt="image text" />
 
