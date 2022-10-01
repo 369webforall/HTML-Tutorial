@@ -143,7 +143,7 @@ Just create the structure of the page.
 [frontendmentor](https://www.frontendmentor.io/challenges?sort=difficulty|asc&types=free)
 
 
-# Resourece
+# Resoureces
 
  * [HTML Dog Tag List](http://www.htmldog.com/reference/htmltags/)
  * [W3Schools Tag List](http://www.w3schools.com/tags/default.asp)
