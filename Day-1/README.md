@@ -105,14 +105,47 @@ There are hundreds of HTML elements, most of the time we only use these elemets.
 
 ## Practice how inline and block element behave.
 
-# Project -1 
+
 use html tags u have learn to create below page. css not required.
+Just create the structure of the page.
+
+# Project -1 
 
 [cake recipe](https://www.allrecipes.com/recipe/241038/microwave-chocolate-mug-cake/)
 
 # Project - 2
 
+[Personal-portfolio](https://personal-portfolio.freecodecamp.rocks/)
 
 # Project - 3
 
+[tribute-page](https://tribute-page.freecodecamp.rocks/)
 
+# Project - 4
+
+[product-landing-page](https://product-landing-page.freecodecamp.rocks/)
+
+# Project - 5
+
+[mytunes](https://jolly-kalam-23776e.netlify.app/mytunes/)
+
+# Project - 6
+
+[resturant-page](https://jolly-kalam-23776e.netlify.app/restaurantwebsite/)
+
+# Project - 7
+
+[photographysite][https://jolly-kalam-23776e.netlify.app/photographysite/#images]
+
+
+# More project 
+
+[frontendmentor](https://www.frontendmentor.io/challenges?sort=difficulty|asc&types=free)
+
+
+# Resourece
+
+ * [HTML Dog Tag List](http://www.htmldog.com/reference/htmltags/)
+ * [W3Schools Tag List](http://www.w3schools.com/tags/default.asp)
+ * [Quackit HTML Tag List](http://www.quackit.com/html/tags/)
+ 
