@@ -135,7 +135,7 @@ Just create the structure of the page.
 
 # Project - 7
 
-[photographysite][https://jolly-kalam-23776e.netlify.app/photographysite/#images]
+[photographysite](https://jolly-kalam-23776e.netlify.app/photographysite/#images)
 
 
 # More project 
@@ -148,4 +148,3 @@ Just create the structure of the page.
  * [HTML Dog Tag List](http://www.htmldog.com/reference/htmltags/)
  * [W3Schools Tag List](http://www.w3schools.com/tags/default.asp)
  * [Quackit HTML Tag List](http://www.quackit.com/html/tags/)
- 
