@@ -181,7 +181,7 @@ There are hundreds of HTML elements, most of the time we only use these elemets.
 
 ```
 
-use html tags u have learn to create below page. css not required.
+Create basic html page structure for below Projects, Try to use semantic tags as possible. css not required.
 Just create the structure of the page.
 
 # Project -1
