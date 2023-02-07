@@ -1,6 +1,8 @@
 # HTML - Hypertext Markup Language
 
-[YouTube](https://youtu.be/HTjvQpZ5J0k)
+[YouTube-video-1](https://www.youtube.com/watch?v=1SCK8tRg-qw)
+
+[YouTube-video-2](https://www.youtube.com/watch?v=HyTSn3Nu61U)
 
 **What is HTML?**
 
