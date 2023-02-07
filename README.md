@@ -319,15 +319,19 @@ Just create the structure of the page.
 
 # Project -1
 
+- No css only structure of the page
+
 [cake recipe](https://www.allrecipes.com/recipe/241038/microwave-chocolate-mug-cake/)
 
 # Project - 2
 
-[Personal-portfolio](https://personal-portfolio.freecodecamp.rocks/)
+- No css only structure of the page
+
+[tribute-page](https://tribute-page.freecodecamp.rocks/)
 
 # Project - 3
 
-[tribute-page](https://tribute-page.freecodecamp.rocks/)
+[Personal-portfolio](https://personal-portfolio.freecodecamp.rocks/)
 
 # Project - 4
 
@@ -351,6 +355,6 @@ Just create the structure of the page.
 
 # Resoureces
 
-- [HTML Dog Tag List](http://www.htmldog.com/reference/htmltags/)
-- [W3Schools Tag List](http://www.w3schools.com/tags/default.asp)
-- [Quackit HTML Tag List](http://www.quackit.com/html/tags/)
+[HTML Dog Tag List](http://www.htmldog.com/reference/htmltags/)
+[W3Schools Tag List](http://www.w3schools.com/tags/default.asp)
+[Quackit HTML Tag List](http://www.quackit.com/html/tags/)
