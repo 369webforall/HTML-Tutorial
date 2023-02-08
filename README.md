@@ -332,7 +332,8 @@ a {
 - <input type="button"> Displays a clickable button
 ```
 
-Create basic html page structure for below Projects, Try to use semantic tags as possible. css not required.
+### Create basic html page structure for below Projects, Try to use semantic tags as possible. css not required.
+
 Just create the structure of the page.
 
 # Project -1
